@@ -4,7 +4,8 @@
 
 void main()
 {
- int i, num, fact = 1;
+ int i, num;
+ unsigned int fact = 1;
 
      printf("Enter number :");
      scanf("%d", &num);
