@@ -19,8 +19,4 @@ void main()
 
 
      printf("Total = %d", sum(a));
-
-
-
-
 }
