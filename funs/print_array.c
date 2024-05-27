@@ -1,5 +1,9 @@
 #include<stdio.h>
 
+void fill(int a[], int len)
+{
+
+}
 
 void print(int a[], int len)
 {
